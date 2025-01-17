@@ -1,4 +1,4 @@
-#Binary CFA Learning Algorithms
+# Binary CFA Learning Algorithms
 
 This repository includes binary CFA learning methods implemented in TensorFlow and PyTorch. The codework presented here contains various binary CFA learning algorithms used during my Ph.D. thesis.
 
